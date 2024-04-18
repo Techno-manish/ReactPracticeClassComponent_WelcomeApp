@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bgContainer {
+  background-color: #1e293b;
+  height: 100vh;
+  font-family: Bree Serif;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mainHeading {
+  font-size: 10vw;
+  color: #f0bb03;
+}
+.para {
+  font-size: 3vw;
+  color: #fff;
+}
+.button {
+  padding: 1vh 2vw;
+  font-size: 2vw;
+  border-radius: 10px;
+  cursor: pointer;
+}
